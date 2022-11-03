@@ -1,2 +1,2 @@
 # JavaScriptProblem
-BuBBLE Sort Algoritm and a Palindrom 
+Bubble Sort Algoritm and a Palindrom 
